@@ -1,0 +1,12 @@
+→ Utilisateur concerné : Streamer
+Une fois le streamer connecté, il peut accéder à son espace via le bouton « Mon espace » dans
+le menu principal de l’application. Cet espace est constitué de plusieurs onglets qui doivent
+chacun s’afficher, sans rechargement de page, au clic sur ceux-ci :
+□ Onglet « Page d’accueil » : récapitulatif de tous les lives saisis avec possibilité de
+modification si et seulement si le live est prévu à J+1 au minimum
+□ Onglet « Saisie » : formulaire demandant la saisie d’un live
+□ Onglet « Inscription utilisateur » : affichage sous forme de graphique du nombre
+d’utilisateurs ayant inscrit leur mail sur un live en fonction du jour
+□ Onglet « Statistique » : affichage des données collectées à des fins statistiques
+lorsqu’un visiteur clique sur un live du streamer. Vous devez afficher le nom du live, sa
+date, ainsi que le nombre de visiteurs.
