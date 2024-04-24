@@ -1,0 +1,18 @@
+→ Utilisateur concerné : Visiteur
+Un live est caractérisé par :
+□ Un libellé
+□ Un streamer
+□ Une thématique (type du jeu : RPG, MMO, Action, Aventure, etc.)
+o Il peut y avoir plusieurs thématiques possibles.
+□ Une date de début ainsi que de fin
+□ Un PEGI : permettant de signaler à l’utilisateur si le jeu est trop violent ou non
+□ Une liste de matériel (exemple : 1 micro, 1 casque, etc.)
+Un streamer est caractérisé par :
+□ Un prénom ainsi qu’un nom
+□ Un matricule nécessaire à la gestion de l’évènement (généré automatiquement)
+□ Un email
+□ Un âge
+□ Nom de sa chaine sur une plateforme
+Un matériel est caractérisé par :
+□ Un libellé
+□ Une marque
