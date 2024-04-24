@@ -1,0 +1,5 @@
+→ Utilisateur concerné : Admin
+Un streamer est créé depuis l’espace administrateur. L’administrateur doit pouvoir en ajouter
+un en insérant les caractéristiques connues à ce moment-là. Une fois le streamer créé, un mail
+est automatiquement envoyé au streamer comportant un mot de passe aléatoire ainsi qu’un
+lien vers l’application web pour se connecter.
