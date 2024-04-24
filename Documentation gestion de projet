@@ -1,1 +1,15 @@
-24/04/2024 : création du git, des branches et dossiers
+Historique : 
+24/04/2024 : création du git, des branches et dossiers ; création du Trello
+
+Important : penser à passer le Trello en mode Public à la fin du projet
+
+Kanban (lien Trello à fournir dans la copie de de l'ECF) avec :
+o Une colonne recensant toutes les fonctionnalités prévues et ordonnées par
+priorité
+o Une colonne recensant les fonctionnalités que vous comptez faire, prévu de
+développement (ou dans le sprint si vous êtes en agile)
+o Une colonne qui recense les fonctionnalités que vous déployez actuellement
+o Une colonne qui énumère les fonctionnalités terminées (sur la branche de
+développement)
+o Enfin, vous pouvez créer une dernière colonne stipulant les fonctionnalités qui
+ont été merge dans la branche principale
