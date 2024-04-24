@@ -1,0 +1,9 @@
+→ Utilisateur concerné : Visiteur
+Une vue globale est nécessaire afin de proposer une interface simple et récapitulative de tous
+les lives. L’enjeu est de présenter tous les lives connus (c’est-à-dire saisis) à ce jour avec juste
+le nom du Streamer associé. Au clic sur le live, l’utilisateur est redirigé vers la page détaillée
+de ce live.
+Des filtres doivent être positionnés afin de pouvoir filtrer :
+□ Par jour
+□ Par thématique de live
+□ Par streamer
