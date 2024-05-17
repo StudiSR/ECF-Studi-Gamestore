@@ -1,0 +1,5 @@
+→ Utilisateur concerné : Utilisateur
+Un utilisateur qui a oublié son mot de passe peut cliquer sur le bouton « Mot de passe oublié »
+en dessous des champs prévus à l’insertion du mot de passe/mail. Il devra juste fournir un
+mail, ensuite, il va recevoir un mail avec un lien cliquable. Ce lien devra rediriger l’utilisateur
+vers une interface de l’application web lui permettant de redéfinir le mot de passe.
