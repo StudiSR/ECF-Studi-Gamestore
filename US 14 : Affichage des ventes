@@ -1,0 +1,7 @@
+→ Utilisateur concerné : Employé et Admin
+Les employés et admin veulent avoir, dans leurs espaces, une vue sur les données collectées
+lors des ventes. Pour ce faire, ils désirent un graphique affichant par date le nombre de ventes
+par article.
+Au clic sur un bouton « Détails », ils peuvent avoir accès à un tableau récapitulant toutes les
+ventes en affichant : date, nom de l’article, nombre de ventes dans la journée, prix totaux.
+Également, un filtre
