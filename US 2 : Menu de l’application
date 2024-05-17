@@ -1,9 +1,6 @@
 → Utilisateur concerné : Visiteur
 Le menu est essentiel à l’application, il permet de faciliter la navigation et de fluidifier le trafic.
-Ainsi, il doit comporter au minimum :
-□ Un retour vers la page d’accueil
-□ Un accès au fil d’actualité
-□ Un moyen d’accéder à une vue globale de tous les streamers avec les dates de leur
-prochain live si elles ont déjà été définies
-□ Un bouton de connexion ou « Mon espace » si l’utilisateur est connecté avec un rôle
-Streamer ou Admin
+Ainsi, il doit composer au minimum :
+🡺 Retour vers la page d’accueil
+🡺 Accéder à une vue globale de tous les jeux vidéo
+🡺 Connexion ou « mon espace » si l’utilisateur est connecté
