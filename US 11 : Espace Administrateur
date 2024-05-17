@@ -1,0 +1,13 @@
+→ Utilisateur concerné : Admin
+Un Admin, une fois connecté et sur son espace, peut s’occuper :
+🡺 De la création d’un jeu vidéo
+🡺 De la gestion des stocks
+o Il peut ajouter du stock à un jeu vidéo
+🡺 Du Dashboard récapitulatif des ventes
+©Studi Reproduction interdite Page 7 sur 9
+o Le Dashboard est un graphique affichant les ventes de jeu vidéo par genre (en
+ordonnée), en fonction de la date (en abscisse)
+o Pour qu’une commande soit prise en compte dans le Dashboard, elle doit être
+au statut « LIVRÉ »
+🡺 De la création d’un compte employé
+o L’admin devra fournir un mail ainsi qu’un mot de passe.

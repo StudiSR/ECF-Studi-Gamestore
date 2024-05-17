@@ -1,4 +1,0 @@
-→ Utilisateur concerné : visiteurs
-Le Z-Event souhaite stocker le nombre de personnes cliquant sur la vue détaillée d’un live dans
-une base de données NoSQL. Cela signifie que si l’utilisateur clique sur un live, nous devons
-stocker en base de données : le nom du live, le nom du streamer et le nombre de clics.
