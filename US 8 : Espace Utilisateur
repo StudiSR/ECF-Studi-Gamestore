@@ -1,0 +1,6 @@
+→ Utilisateur concerné : Utilisateur
+Un utilisateur peut avoir accès à un bouton « Mon espace » depuis le menu principal.
+Cela lui donne accès à plusieurs fonctionnalités :
+🡺 Historique des commandes avec son statut (VALIDÉ quand la commande a été
+confirmée, mais non encore retirée).
+🡺 Modification de ses informations personnelles.
