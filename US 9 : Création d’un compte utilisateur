@@ -1,0 +1,7 @@
+→ Utilisateur concerné : Visiteur
+Un Visiteur peut se créer un compte. Pour cela, il devra fournir :
+🡺 Un nom ainsi qu’un prénom
+🡺 Une adresse électronique et postale
+🡺 Un mot de passe
+Une fois que le compte a été créé, il reçoit un mail de confirmation (ce mail ne comporte pas
+le mot de passe ainsi que les informations personnelles de l’utilisateur).
