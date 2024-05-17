@@ -1,0 +1,15 @@
+→ Utilisateur concerné : Utilisateur
+Le panier est accessible depuis un bouton mis en évidence au sein de l’interface de
+l’utilisateur. Il devra être visible tant que le panier dispose d’au moins un article.
+Un Utilisateur, au clic sur le panier, doit pouvoir visualiser les articles qui ont été positionnés.
+Le panier devra comporter :
+🡺 Le libellé de chaque produit
+🡺 Le prix de chaque produit
+🡺 Le prix total
+🡺 L’agence de retrait : par défaut, il s’agit de l’agence la plus proche du client, mais cela
+est modifiable par lui-même.
+🡺 Date de retrait : l’utilisateur met la date qu’il souhaite, mais elle doit :
+o Être à moins de 7 jours après la commande
+o Ne dois pas être un lundi ou un dimanche (les agences sont fermées)
+Une fois le panier validé, la commande est ajoutée dans l’historique des commandes de
+l’utilisateur et il reçoit un mail de confirmation.
