@@ -1,0 +1,4 @@
+→ Utilisateur concerné : Utilisateur
+Un visiteur peut, depuis la vue globale ou la vue détaillée, ajouter un jeu vidéo à son panier.
+Cependant, le clic sur le bouton est possible uniquement si le visiteur est authentifié (donc
+devenu utilisateur) et que le jeu est en stock !
