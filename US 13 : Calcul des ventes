@@ -1,0 +1,5 @@
+→ Utilisateur concerné : Utilisateurs
+Lorsqu’un utilisateur commande des articles et que le client passe le statut de la commande à
+« LIVRÉ » alors, il faut incrémenter le ou les ventes d’articles afin de les afficher plus tard. Cette
+donnée sera enregistrée dans une base de données NoSQL afin de fluidifier les requêtes ainsi
+que les informations. Vous devrez stocker : le nom de l’article, le prix ainsi que la date.
