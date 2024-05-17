@@ -1,0 +1,4 @@
+→ Utilisateur concerné : Employé
+Un employé doit avoir son compte créé par un Admin. L’employé dispose d’un seul droit, qui
+est de passer les commandes du statut « VALIDÉ » à « LIVRÉ » une fois que le client est passé
+à l’agence pour payer et retirer sa commande.
