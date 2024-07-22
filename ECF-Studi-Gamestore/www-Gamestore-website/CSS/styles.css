@@ -1,0 +1,119 @@
+/* Positions page */
+#page{
+	min-height:100vh;
+	display:flex;
+	flex-direction:column;
+}
+
+#contenu_accueil, #contenu_mon_espace, #contenu_panier, #contenu_connexion, #contenu_nouveau_compte, #contenu_admin{
+	flex-grow:1;
+}
+
+/* Header */
+header{
+    background-color: lightsalmon;
+}
+
+/* Image de fond */
+body{
+    background: url("https://i.cbc.ca/1.5157920.1559327312!/fileImage/httpImage/last-gamestore.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* Menu de navigation */
+nav.menu-nav ul li.bouton{
+    list-style-type: none;
+}
+
+nav.menu-nav ul li.bouton{
+    display: inline-block;    
+}
+
+nav.menu-nav ul li.bouton a{
+    color: black;
+    background: white;
+    margin-top: 5px;
+    padding-left: 5px;
+    display: inline;
+    float: left;
+    padding-right: 5px;
+    clear: both;
+    text-decoration: none;
+}
+
+nav.menu-nav ul li.bouton:hover a{
+    color: black;
+    background-color: lightgrey;
+}
+
+/* Contenu accueil */
+div#contenu_accueil div{
+    display: inline-block;
+    width: 49%;
+}
+
+div#contenu_accueil div.leftbox{
+    background-color: #ffa07ab4;
+    vertical-align: top;
+}
+
+div#contenu_accueil div.leftbox h1, p{
+    margin: 8px;
+}
+
+div#contenu_accueil div.rightbox{
+    background-color: #ffa07ab4;
+    vertical-align: top;
+}
+
+div#contenu_accueil div.rightbox h1, p{
+    margin: 8px;
+}
+
+/* Contenu mon espace */
+div#contenu_mon_espace div.historique_commandes{
+    background-color: #ffa07ab4;
+}
+
+div#contenu_mon_espace div.infos_persos{
+    background-color: #ffa07ab4;
+}
+
+/* Contenu connexion */
+div#contenu_connexion div.se_connecter{
+    background-color: #ffa07ab4;
+}
+
+div#contenu_connexion div.oubli_mdp{
+    background-color: #ffa07ab4;
+}
+
+/* Contenu nouveau compte */
+div#contenu_nouveau_compte div.créer_compte{
+    background-color: #ffa07ab4;
+}
+
+/* Contenu page admin */
+div#contenu_admin div.creation_jeu{
+    background-color: #ffa07ab4;
+}
+
+div#contenu_admin div.gestion_stock{
+    background-color: #ffa07ab4;
+}
+
+div#contenu_admin div.dashboard{
+    background-color: #ffa07ab4;
+}
+
+div#contenu_admin div.compte_employe{
+    background-color: #ffa07ab4;
+}
+
+/* Footer */
+footer{
+    background-color: #ffa07a;
+}
